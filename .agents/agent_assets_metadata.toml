@@ -1,0 +1,28 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "cC31ReUcQe9rgm-rHtKFd"
+uri = "file://.local/outputs/SoundOS-Hub.pdf"
+type = "pdf"
+title = "SoundOS Hub.pdf"
+
+[[outputs]]
+id = "JXU1pRhtOS7M0QdFYkFoA"
+uri = "file://docs/soundos-status-tecnico.md"
+type = "text"
+title = "SoundOS — Status Técnico (Sofia expandida)"
+
+[[outputs]]
+id = "cs_lY6ZJG0TDtmM65YNhE"
+uri = "file://attached_assets/SoundOS_Status_de_Desenvolvimento_2026-08-18.md"
+type = "text"
+title = "SoundOS — Status de Desenvolvimento (18/08/2026)"
+description = "Auditoria completa do projeto real: status por módulo, stack, 22 tabelas, ~90 endpoints, RBAC e o que é dado real vs. simulado."
+
+[[outputs]]
+id = "kWT9kU92hESu-wElQYsly"
+uri = "file://attached_assets/SoundOS_Resumo_Executivo_Cronograma_2026-08-25.md"
+type = "text"
+title = "Resumo executivo do cronograma — SoundOS"
+description = "Comparação executiva entre o cronograma de 2026 e o estado técnico confirmado do SoundOS, com entregas, lacunas, riscos e prioridades."

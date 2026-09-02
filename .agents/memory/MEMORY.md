@@ -1,0 +1,17 @@
+- [celular_normalizado](celular-normalizado.md) — mantido por trigger: não escreva; LER é seguro (a regra antiga de "nunca selecionar" era falsa e custou tempo).
+- [Drizzle embrulha erros do pg](drizzle-erros-pg.md) — SQLSTATE fica em `cause`, não em `err.code`; checagem direta vira código morto silencioso.
+- [Aluno = pessoa com matrícula](aluno-e-pessoa.md) — não existe tabela `students`; lista de Alunos é derivada e somente leitura, e cada turma gera seu link de inscrição.
+- [Sofia pessoa creation flow](sofia-pessoa-flow.md) — how Sofia creates/links fichas during chat; trigger + index setup needed.
+- [Omie API response shapes](omie-api-shapes.md) — ListarContasReceber returns snake_case `conta_receber_cadastro`; docs claiming `cadastros[]`/`nCodTitulo` describe pesquisartitulos. Verify keys live first.
+- [pessoas_codigo_unique drizzle-kit drift](pessoas-codigo-unique-drift.md) — drizzle-kit push prompts to touch `pessoas` table; use direct SQL for schema changes until fixed.
+- [AI tool recommendation matching](ai-recommendation-matching.md) — free-text signal matching against short fields needs stopwords + per-field scoring or generic words cause false positives.
+- [Pessoa evidence mechanism](pessoa-evidencias-mecanismo.md) — human-confirmed ficha fields can never be overwritten by Sofia; all writes must go through the shared evidencias service.
+- [SoundOS session auth](soundos-session-auth.md) — api-server identity must come from a signed session token, never a raw X-User-Id header.
+- [Sofia human handoff mechanism](sofia-handoff-mecanismo.md) — conversations table has status/handoffReason/handoffSummary; reuse detectPreTrigger/detectPostTrigger, don't build a second escalation path.
+- [Sofia escalation triggers must be tool calls, not regex, when they require judgment](sofia-escalation-judgment.md) — ambiguity/eligibility can't be reliably detected from keywords; let the model call a tool instead.
+- [Sofia decision engine (decision_run/eligibility)](sofia-decision-engine.md) — eligibility must come from recorded evidence, never conversational claims.
+- [Declarações .d.ts obsoletas após merge](post-merge-dts-obsoleto.md) — erro de tipo em campo que existe na fonte = `lib/*/dist` velho; rode `tsc --build` antes de investigar.
+- [Recuperação de acesso admin](recuperacao-de-acesso-admin.md) — não há seed nem "esqueci a senha"; migração que zera hashes tranca todo mundo. Script de resgate documentado.
+- [Busca do RAG da Sofia](sofia-rag-busca.md) — sem embeddings: recall vem de expansão de query + BM25 multi-query; cuidado com limiar de RRF abaixo do score mínimo possível.
+- [gpt-5-nano é modelo de raciocínio](gpt-5-nano-reasoning.md) — ~5s e 640 tokens de reasoning numa tarefa trivial; não use onde há timeout. Meça antes de escolher.
+- [api-spec / orval codegen gotchas](api-spec-codegen.md) — "Failed to resolve input" = YAML parse error (usually a duplicate schema key); api-server needs a restart, routes live under /api.
