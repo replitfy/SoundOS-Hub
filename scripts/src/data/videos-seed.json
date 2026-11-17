@@ -1,0 +1,1882 @@
+[
+  {
+    "titulo": "TaKeTiNa Roda - Sem Fala",
+    "ref": "TK-01",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "2'42",
+    "link": "https://youtu.be/D4tlejPHKdc"
+  },
+  {
+    "titulo": "TaKeTiNa A Batida do Seu Coração",
+    "ref": "TK-02",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "1'21\"",
+    "link": "https://www.youtube.com/watch?v=sQZNjm_GBAE"
+  },
+  {
+    "titulo": "TaKeTiNa - A Batida do Seu Coração Legendado",
+    "ref": "TK-03",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "1'21\"",
+    "link": "https://youtu.be/nkx87CD0M8E"
+  },
+  {
+    "titulo": "TaKeTiNa - Sua Essência Ritmica",
+    "ref": "TK-04",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "52\"",
+    "link": "https://youtube.com/shorts/9VDEBVmJdSg?feature=share"
+  },
+  {
+    "titulo": "TaKeTiNa - Sabedoria do Fluxo da Vida (Curto)",
+    "ref": "TK-05",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/Nx7M13dIY0E?feature=share"
+  },
+  {
+    "titulo": "TaKeTiNa - Agitação da Vida Urbana",
+    "ref": "TK-06",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": null,
+    "link": "https://youtu.be/HeL1fY6KN6c"
+  },
+  {
+    "titulo": "Reels 1 - Apenas Depoimento",
+    "ref": "TK-07",
+    "tipo": "Depoimentos",
+    "curso": "TaKeTiNa",
+    "duracao": "1'14",
+    "link": "https://youtu.be/-CjdHz11Cjs"
+  },
+  {
+    "titulo": "Reels 2 - Depoimento + Cenas",
+    "ref": "TK-08",
+    "tipo": "Depoimentos",
+    "curso": "TaKeTiNa",
+    "duracao": "1'21",
+    "link": "https://youtu.be/d2ANHpC6UOg"
+  },
+  {
+    "titulo": "Reels 3 - Trilha + Cenas",
+    "ref": "TK-09",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "1'21",
+    "link": "https://youtu.be/sywfqw6d3Mc"
+  },
+  {
+    "titulo": "Reels 4 - Sugestão 1 - Lilian",
+    "ref": "TK-10",
+    "tipo": "Depoimentos",
+    "curso": "TaKeTiNa",
+    "duracao": "1'00",
+    "link": "https://youtu.be/fGmqFANR2Zc"
+  },
+  {
+    "titulo": "Reels 5 - Sugestão 2 - Lilian",
+    "ref": "TK-11",
+    "tipo": "Depoimentos",
+    "curso": "TaKeTiNa",
+    "duracao": "00'54",
+    "link": "https://youtube.com/shorts/NeJi1dtyT7g?feature=share"
+  },
+  {
+    "titulo": "Cena Retiro",
+    "ref": "TK-12",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "1´30\"",
+    "link": "https://youtube.com/shorts/84iF5yJE-jg"
+  },
+  {
+    "titulo": "Cena Retiro - Taketina Geodésica",
+    "ref": "TK-13",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "1´31\" ",
+    "link": "https://youtube.com/shorts/fn0eKfETTCA"
+  },
+  {
+    "titulo": "Cena Retiro - Ayahuasca + Taketina",
+    "ref": "TK-14",
+    "tipo": "Video SFS",
+    "curso": "TaKeTiNa",
+    "duracao": "37\"",
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Filosofia e Reflexão",
+    "ref": "AG-01",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/acsdd3Q6vWM"
+  },
+  {
+    "titulo": "Ciclo Água - Conheça Pierre Stocker",
+    "ref": "AG-02",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/IEdqy4AeNTY"
+  },
+  {
+    "titulo": "Ciclo Água - Kalimba - O Instrumento da Alma Africana",
+    "ref": "AG-03",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/zLVI1SM8HpM"
+  },
+  {
+    "titulo": "Ciclo Água - Kalimba - Instrumento de Cura",
+    "ref": "AG-04",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/J8YuZKuB7z8"
+  },
+  {
+    "titulo": "Ciclo Água - Kalimba - A Voz do Coração",
+    "ref": "AG-05",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/gT0jX9StkeI"
+  },
+  {
+    "titulo": "Ciclo Água - Taças Tibetanas - A Experiência de Formação com Taças Tibetanas",
+    "ref": "AG-06",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/luO1NA-hqMU"
+  },
+  {
+    "titulo": "Ciclo Água - Taças Tibetanas - Como as Taças Tibetanas Promovem a Cura",
+    "ref": "AG-07",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/k2WqTPxK1EM"
+  },
+  {
+    "titulo": "Ciclo Água - Taças Tibetanas - Introdução às Taças Tibetanas",
+    "ref": "AG-08",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/oJBC5WMJEIE?feature=share"
+  },
+  {
+    "titulo": "Ciclo Água - Taças Tibetanas - Meditação com Taças Tibetanas",
+    "ref": "AG-09",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/quS106IK-PI"
+  },
+  {
+    "titulo": "Ciclo Água - Tambor Lakota - Introdução aos Tambores Lakota",
+    "ref": "AG-10",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/7DzpLJfFXiI"
+  },
+  {
+    "titulo": "Ciclo Água - Tambor Lakota - O Poder Ritualístico dos Tambores Lakota",
+    "ref": "AG-11",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/Px6CoPwUa2k"
+  },
+  {
+    "titulo": "Ciclo Água - Tambor Lakota - Meditação com Tambores Lakota",
+    "ref": "AG-12",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/ATvaVB9wJ6I"
+  },
+  {
+    "titulo": "Ciclo Água - Tambor Lakota - A Experiência da Formação Água com Tambores Lakota",
+    "ref": "AG-13",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/yB406W_Norc"
+  },
+  {
+    "titulo": "Ciclo Água - Tambor Lakota - Conheça Pierre Stocker e os Tambores Lakota",
+    "ref": "AG-14",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/6HNZnXibw6g"
+  },
+  {
+    "titulo": "Ciclo Água - O primeiro toque na taça tibetana",
+    "ref": "AG-15",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Lucas Suba",
+    "ref": "AG-16",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/fDT88yHOdZc"
+  },
+  {
+    "titulo": "Ciclo Água - Pena e Zamponha",
+    "ref": "AG-17",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/_957MDyTyYM"
+  },
+  {
+    "titulo": "Ciclo Água - Protocolo com Pierre Stocker (tambor xamânico)",
+    "ref": "AG-18",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Tambor Xamânico",
+    "ref": "AG-19",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Tambor Xamânico AI (1)",
+    "ref": "AG-20",
+    "tipo": "Vídeo IA",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Tambor Xamânico AI (2)",
+    "ref": "AG-21",
+    "tipo": "Vídeo IA",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Zamponha",
+    "ref": "AG-22",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/mrZns4K6b8w"
+  },
+  {
+    "titulo": "Ciclo Água - Protocolo com Pierre Stocker (taças tibetanas)",
+    "ref": "AG-23",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Tambor Oceânico + taças",
+    "ref": "AG-24",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com Fen Gong + Tambor Xamânico ",
+    "ref": "AG-25",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/hXkzo1h2W7M"
+  },
+  {
+    "titulo": "Ciclo Água -  Protocolo com Pierre Stocker",
+    "ref": "AG-26",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/pTzKFqfzK1s"
+  },
+  {
+    "titulo": "Ciclo Água - Atendimento com pessoas sentadas",
+    "ref": "AG-27",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/pNTSCMbp08Y"
+  },
+  {
+    "titulo": "Ciclo Água - Highlights",
+    "ref": "AG-28",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/BudwykqWTn8"
+  },
+  {
+    "titulo": "Ciclo Água - Abrasom Highlights",
+    "ref": "AG-29",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/V1_vhUrxJxM"
+  },
+  {
+    "titulo": "Ciclo Água - Abrasom 1",
+    "ref": "AG-30",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/W35zE27SxXY"
+  },
+  {
+    "titulo": "Ciclo Água -  Abrasom 2",
+    "ref": "AG-31",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/b_58ubTobcw"
+  },
+  {
+    "titulo": "Ciclo Água - Abrasom 4",
+    "ref": "AG-32",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/dxvnNeZIb0o"
+  },
+  {
+    "titulo": "Ciclo Água - Abrasom Highlights (AI)",
+    "ref": "AG-33",
+    "tipo": "Vídeo IA",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/5AsCCkyOIWg"
+  },
+  {
+    "titulo": "Ciclo Água -  Abrasom (AI)",
+    "ref": "AG-34",
+    "tipo": "Video SFS",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/x_-iuzIW2O4"
+  },
+  {
+    "titulo": "Ciclo Água - Mix de Depoimentos 1",
+    "ref": "AG-35",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/ngg51WGDRRU"
+  },
+  {
+    "titulo": "Ciclo Água - Mix de Depoimentos 2",
+    "ref": "AG-36",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/0LGtN7RL5CA"
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 1 - Não é apenas sobre música",
+    "ref": "AG-37",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/7PAkNyCW--E"
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 2 - A massagem sonora me surpreendeu",
+    "ref": "AG-38",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/6C9ncZ4fsLo"
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 3 - Conectar o Sound Healing com meu trabalho musical",
+    "ref": "AG-39",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/l9BGxhsRmxQ"
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 4 - Neste curso me senti em casa",
+    "ref": "AG-40",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/n7qmpeICbgU"
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 5 - Me senti alquimista do som",
+    "ref": "AG-41",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 6 - Conexão com o outro através do som",
+    "ref": "AG-42",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ciclo Água - Depoimento 7 - Realizei o sonho de tocar um instrumento",
+    "ref": "AG-43",
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://youtu.be/Ov8YfvLOlYU"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado 15s",
+    "ref": "FO-01",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/TpP2tU4tMDQ"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado 30s",
+    "ref": "FO-02",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/WJ3CY65XBY4"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado 60s",
+    "ref": "FO-03",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/CK8x1R7jdpw?feature=share"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado 90s",
+    "ref": "FO-04",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/NCiuiDg4mr0"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado 165s",
+    "ref": "FO-05",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/WuL1LQ9sHaM"
+  },
+  {
+    "titulo": "Ciclo Fogo - A Arte de Guiar Cerimônias com o Som Sagrado Completo Horizontal",
+    "ref": "FO-06",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": "2'45\"",
+    "link": "https://youtu.be/asVh9pZs8cE"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_1 Criativo Anúncio)",
+    "ref": "FO-07",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/tcPx8rmEUxo"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_1 Criativo Anúncio)",
+    "ref": "FO-08",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/g6eVxbFwfv4"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_2 Criativo Anúncio) 1min",
+    "ref": "FO-09",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/cafJtSEjLFY?feature=share"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_2 Criativo Anúncio) 30s",
+    "ref": "FO-10",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/cafJtSEjLFY"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_2 Criativo Anúncio) Stories 1min",
+    "ref": "FO-11",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/xgipZr-3grQ"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_2 Criativo Anúncio) Stories 30s",
+    "ref": "FO-12",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/nvl7MJWielM"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_3 Criativo Anúncio) Feed 1min",
+    "ref": "FO-13",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/0AC1OXf_GlQ?feature=share"
+  },
+  {
+    "titulo": "Ciclo Fogo - Curso Presencial Ritual de Som (Vìdeo_3 Criativo Anúncio) Stories 1min",
+    "ref": "FO-14",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/H9dR4dL1Aew"
+  },
+  {
+    "titulo": "Criativo animado Tambores de fogo - curso presencial fogo SEM DATA - stories",
+    "ref": "FO-15",
+    "tipo": "Flyer Animado",
+    "curso": "Fogo",
+    "duracao": "00'25",
+    "link": "https://youtube.com/shorts/iBVvifWnKdg"
+  },
+  {
+    "titulo": "Criativo animado Tambor e velas - curso presencial fogo SEM DATA - Feed",
+    "ref": "FO-16",
+    "tipo": "Flyer Animado",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/wS-W8YLGEso"
+  },
+  {
+    "titulo": "Criativo animado Tambor e velas - curso presencial fogo SEM DATA - stories",
+    "ref": "FO-17",
+    "tipo": "Flyer Animado",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/iiWnFMU2-fs"
+  },
+  {
+    "titulo": "Reels 1 - Introdução aos Tambores Lakota (AI).mp4",
+    "ref": "FO-18",
+    "tipo": "Vídeo IA",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/lJ_rAk410uU"
+  },
+  {
+    "titulo": "Apresentação do Curso - Página de Vendas",
+    "ref": "FO-19",
+    "tipo": "Video SFS",
+    "curso": "Fogo",
+    "duracao": "4'50\"",
+    "link": "https://youtu.be/jmh92RmJtg4"
+  },
+  {
+    "titulo": "Abertura 3H",
+    "ref": "FO-20",
+    "tipo": "Video 3 Cenas",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/YYTEbipzoHE?feature=share"
+  },
+  {
+    "titulo": "Ensaios",
+    "ref": "FO-21",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/lQg5NVnFZjw"
+  },
+  {
+    "titulo": "Highlights 1 I.A.",
+    "ref": "FO-22",
+    "tipo": "Vídeo IA",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/H44x-7hSDSw"
+  },
+  {
+    "titulo": "Highlights 1",
+    "ref": "FO-23",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/MGT99suiX3E"
+  },
+  {
+    "titulo": "Highlights 2 I.A.",
+    "ref": "FO-24",
+    "tipo": "Vídeo IA",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/dPB9jGvjzx0"
+  },
+  {
+    "titulo": "Highlights 2",
+    "ref": "FO-25",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/99ViLFAshNU"
+  },
+  {
+    "titulo": "Highlights 3H",
+    "ref": "FO-26",
+    "tipo": "Video 3 Cenas",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/tJQy-q0Kdo8"
+  },
+  {
+    "titulo": "Rituais 3H",
+    "ref": "FO-27",
+    "tipo": "Video 3 Cenas",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/C65l_CxsJ-w"
+  },
+  {
+    "titulo": "Ritual de Som 2",
+    "ref": "FO-28",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/EukMbByE5co"
+  },
+  {
+    "titulo": "Ritual de Som",
+    "ref": "FO-29",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/3iXkl_QIsfg"
+  },
+  {
+    "titulo": "Taketina 3H",
+    "ref": "FO-30",
+    "tipo": "Video 3 Cenas",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/OGvDax0u0wM?feature=share"
+  },
+  {
+    "titulo": "V-30s-Aprenda + de 20 instrumentos",
+    "ref": "FO-31",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/DLSEUDLGlHI?feature=share"
+  },
+  {
+    "titulo": "V-90s-Som Essencia Divina",
+    "ref": "FO-32",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/TPra7A0w9uA"
+  },
+  {
+    "titulo": "V-Arte do Som e do Silêncio",
+    "ref": "FO-33",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/46UON3o2ghs"
+  },
+  {
+    "titulo": "V-Estrutura de Ensino que faz a diferença",
+    "ref": "FO-34",
+    "tipo": "Video Insta",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/wqMWO0qyQ5o"
+  },
+  {
+    "titulo": "O poder oculto nos rituais sonoros",
+    "ref": "FO-35",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'24\"",
+    "link": "https://youtu.be/6dBXq7JfoAk"
+  },
+  {
+    "titulo": "Um curso para transformar a vida pessoal e profissional",
+    "ref": "FO-36",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'24\"",
+    "link": "https://youtu.be/H6TMd56Wes8"
+  },
+  {
+    "titulo": "Um curso para transformar a vida pessoal e profissional",
+    "ref": "FO-37",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'24\"",
+    "link": "https://youtu.be/PSDbvTpV00Q"
+  },
+  {
+    "titulo": "Desperte o artista e o terapeuta dentro de você",
+    "ref": "FO-38",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'01\"",
+    "link": "https://youtu.be/9r50AHWiEfU"
+  },
+  {
+    "titulo": "Desperte o artista e o terapeuta dentro de você",
+    "ref": "FO-39",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'01\"",
+    "link": "https://youtu.be/zD9TtAOLong"
+  },
+  {
+    "titulo": "Os diferenciais de estudar rituais de som na Soundfulness",
+    "ref": "FO-40",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "52\"",
+    "link": "https://youtube.com/shorts/o6VwUXeq_YE?feature=share"
+  },
+  {
+    "titulo": "Eleve a qualidade dos seus rituais sonoros",
+    "ref": "FO-41",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'16\"",
+    "link": "https://youtu.be/vfPGYGI4hkQ"
+  },
+  {
+    "titulo": "Eleve a qualidade dos seus rituais sonoros",
+    "ref": "FO-42",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "1'16\"",
+    "link": "https://youtu.be/RmV6EILKg-E"
+  },
+  {
+    "titulo": "Descubra novas possibilidades de carreira com Sound Healing",
+    "ref": "FO-43",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "58\"",
+    "link": "https://youtube.com/shorts/fzmKUScXZkY?feature=share"
+  },
+  {
+    "titulo": "D-V-Fogo-1-Por que voce decidiu fazer o curso",
+    "ref": "FO-44",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "26\"",
+    "link": "https://youtube.com/shorts/WtrgVaFq4Bc"
+  },
+  {
+    "titulo": "D-V-Fogo-2-O que voce aprendeu no curso",
+    "ref": "FO-45",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "37\"",
+    "link": "https://youtube.com/shorts/Yj6z_GLh5ok"
+  },
+  {
+    "titulo": "D-V-Fogo-3-Qual sua expectativa sobre o curso",
+    "ref": "FO-46",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "24\"",
+    "link": "https://youtube.com/shorts/_m7iF5fFwQ4?feature=share"
+  },
+  {
+    "titulo": "D-V-Fogo-4-Como é aprender a tocar um instrumento",
+    "ref": "FO-47",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "26\"",
+    "link": "https://youtu.be/_m0ej6PkB60"
+  },
+  {
+    "titulo": "D-V-Fogo-5-O que voce aprendeu praticando taketina",
+    "ref": "FO-48",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "38\"",
+    "link": "https://youtube.com/shorts/pR0ku4WGbkk"
+  },
+  {
+    "titulo": "D-V-Fogo-6-Como voce se ve apos o curso",
+    "ref": "FO-49",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/9uA393HwgKE?feature=share"
+  },
+  {
+    "titulo": "D-V-Fogo-7-Qual o seu objetivo ao entra nesse curso",
+    "ref": "FO-50",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": "25\"",
+    "link": "https://youtu.be/Scs5VVoQddU"
+  },
+  {
+    "titulo": "D-V-Fogo-8-O que voce busca no curso",
+    "ref": "FO-51",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/E4jvmmDem4s"
+  },
+  {
+    "titulo": "D-V-Fogo-9-O que voce leva de aprendizado",
+    "ref": "FO-52",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/me2WEAPVGNE"
+  },
+  {
+    "titulo": "D-V-Fogo-10-Por que voce decidiu fazer o curso",
+    "ref": "FO-53",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/8KYY6vmMZJI"
+  },
+  {
+    "titulo": "D-V-Fogo-11-Nao sei tocar nada",
+    "ref": "FO-54",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/WhpspoezgXg"
+  },
+  {
+    "titulo": "D-V-Fogo-12-O que voce aprendeu",
+    "ref": "FO-55",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/ynxlDLhJaoU"
+  },
+  {
+    "titulo": "D-V-Fogo-13-Quais insights mais valiosos",
+    "ref": "FO-56",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/k4Cqyij1F-Y"
+  },
+  {
+    "titulo": "D-V-Fogo-14-Como descbriu o curso",
+    "ref": "FO-57",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/YhVVjAMUZ8k"
+  },
+  {
+    "titulo": "D-V-Fogo-15-Como esse curso combina com sua profissao",
+    "ref": "FO-58",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/kXITG6Gv8mc"
+  },
+  {
+    "titulo": "D-V-Fogo-16-O que voce leva de aprendizado",
+    "ref": "FO-59",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/689zraJq4AM"
+  },
+  {
+    "titulo": "D-V-Fogo-17-Como esse curso vai agregar",
+    "ref": "FO-60",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/mdWo5IVMGyk"
+  },
+  {
+    "titulo": "D-V-Fogo-18-Como foi experiencia uma roda de taketina",
+    "ref": "FO-61",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/uq2_Oi-uvG8"
+  },
+  {
+    "titulo": "D-V-Fogo-19-Como usar na vida o que voce aprendeu",
+    "ref": "FO-62",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/DpTtLG-B558"
+  },
+  {
+    "titulo": "D-V-Fogo-20-Como inovar no unirso do som",
+    "ref": "FO-63",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/tX6UDQl9ZSM"
+  },
+  {
+    "titulo": "D-V-Fogo-21-O que voce busca no curso",
+    "ref": "FO-64",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/H4L3UBcUEAo"
+  },
+  {
+    "titulo": "D-V-Fogo-22-Quais aprendizados voce leva",
+    "ref": "FO-65",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/YKOxYNEjPus"
+  },
+  {
+    "titulo": "D-V-Fogo-23-O que voce sente na roda de taketina.mp4",
+    "ref": "FO-66",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/jEIfezCNmwE"
+  },
+  {
+    "titulo": "D-V-Fogo-24-Como vai aplicar o que aprendeu",
+    "ref": "FO-67",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/FAp1F-iIgTI"
+  },
+  {
+    "titulo": "D-V-Fogo-25-Por que fazer um curso de ritual",
+    "ref": "FO-68",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/vG06S09e11w"
+  },
+  {
+    "titulo": "D-V-Fogo-26-O que voce sentiu durante o ritual",
+    "ref": "FO-69",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/y3Asdq1XVhE"
+  },
+  {
+    "titulo": "D-V-Fogo-27-Como e fazer um curso na soundfulness",
+    "ref": "FO-70",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/GwZYlHowGPE"
+  },
+  {
+    "titulo": "D-V-Fogo-28-Como foi sua experiencia",
+    "ref": "FO-71",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/03x0yp-wBZo"
+  },
+  {
+    "titulo": "D-V-Fogo-29-Quais aprendizados voce leva",
+    "ref": "FO-72",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/sY4oYZ3HobA"
+  },
+  {
+    "titulo": "D-V-Fogo-30-Quais seus sentimentos ao concluir",
+    "ref": "FO-73",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/ypnMxtlV4ok"
+  },
+  {
+    "titulo": "D-V-Fogo-31-Como esse curso vai ajudar a vida",
+    "ref": "FO-74",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/3VoeCijAMSQ"
+  },
+  {
+    "titulo": "D-V-Fogo-32-Qual a importancia do som pra voce",
+    "ref": "FO-75",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/Zhp7wYxxO_E"
+  },
+  {
+    "titulo": "D-V-Fogo-33-Qual seu sentimento ao concluir",
+    "ref": "FO-76",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/Gtbahzzx5zc"
+  },
+  {
+    "titulo": "D-V-Fogo-34-O soundhealing pode ajudar uma pessoa autista",
+    "ref": "FO-77",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/kpnM4CKbiJ8"
+  },
+  {
+    "titulo": "D-V-Fogo-35-Por que escolher a escola soundfulness",
+    "ref": "FO-78",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/RZSo5_OaVB0"
+  },
+  {
+    "titulo": "D-V-Fogo-36-Como e estudar em uma escola de sound healing",
+    "ref": "FO-79",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/JcjnpMlTaBE"
+  },
+  {
+    "titulo": "D-V-Fogo-37-Como usar o som para ajudar pessoas",
+    "ref": "FO-80",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/g6wInQRzT9Y"
+  },
+  {
+    "titulo": "D-V-Fogo-38-O que te surpreendeu na escola soundfulness",
+    "ref": "FO-81",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/HDrZojnU54I"
+  },
+  {
+    "titulo": "D-V-Fogo-39-Como foi sua experiencia na escola soundfulness",
+    "ref": "FO-82",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/wZtWIZpCP6Q"
+  },
+  {
+    "titulo": "D-V-Fogo-40-Como foi sua experiencia no curso",
+    "ref": "FO-83",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/cbKcQChHRoc"
+  },
+  {
+    "titulo": "D-V-Fogo-41-Qual o maior insight que teve",
+    "ref": "FO-84",
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtu.be/R-oQ1nT_wz0"
+  },
+  {
+    "titulo": "Tambor Lakota: batidas que contam histórias",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "O poder das taças tibetanas",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Taketina:Conexão com o Ritmo",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "TaKeTiNa",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Taças Tibetanas para Ansiedade (estudo científico)",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Zamponha: Instrumento Ancestral Andino",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Diapasão: Da Música à Medicina Moderna",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Terra",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Chakana: Símbolo Milenar e Cosmológico do Mundo Andino",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Todos",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Alunos da Soundfulness exploram novos horizontes com o Sound Healing",
+    "ref": null,
+    "tipo": "Artigo Blog",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Playlist Ritual Medicine",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Fogo",
+    "duracao": "21h06min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Yoga & Meditation",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Agua",
+    "duracao": "19h46min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Oriental",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Agua",
+    "duracao": "24h55min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Africa",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "TaKeTiNa",
+    "duracao": "11h49min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Very Soft",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Agua",
+    "duracao": "22h07min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Pure Jazz",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Fogo",
+    "duracao": "25h39min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Love Vibes",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Todos",
+    "duracao": "7h17min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Andinas",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Fogo",
+    "duracao": "4h56min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Piano Only",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Todos",
+    "duracao": "10h34min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Latin Vibes",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Todos",
+    "duracao": "6h33min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Good Vibes",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Todos",
+    "duracao": "4h",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Reggae",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Todos",
+    "duracao": "5h17min",
+    "link": null
+  },
+  {
+    "titulo": "Playlist Ritmo",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "TaKeTiNa",
+    "duracao": "1h54min",
+    "link": null
+  },
+  {
+    "titulo": "PDF Comercial FOGO",
+    "ref": "PDF FOGO",
+    "tipo": "PDF",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "PDF Comercial Taketina",
+    "ref": "PDF TAKETINA",
+    "tipo": "PDF",
+    "curso": "TaKeTiNa",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "PDF Comercial Água",
+    "ref": "[SFS] Pdf Apresentação Comercial Curso Água.pdf",
+    "tipo": "PDF",
+    "curso": "Agua",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Aula com João Rilton, Curso Terra, 10/04/2024",
+    "ref": "TE-01",
+    "tipo": "Aula",
+    "curso": "Terra",
+    "duracao": "1h50min54sec",
+    "link": "https://youtu.be/xENG8bXvH-g"
+  },
+  {
+    "titulo": "Playlist Pública Taketina Youtube",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "TaKeTiNa",
+    "duracao": null,
+    "link": "https://www.youtube.com/playlist?list=PLQbv8gs1yYhI41B4pVadiPICepypu1eSG"
+  },
+  {
+    "titulo": "Playlist YT Depoimentos Ciclo Fogo",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Fogo",
+    "duracao": null,
+    "link": "https://youtube.com/playlist?list=PLQbv8gs1yYhKy3gB7I0DvHkJj4Fu2npc4&si=DdPi6dF21jH1JfWz"
+  },
+  {
+    "titulo": "Playlist YT Depoimentos Ciclo Água",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Agua",
+    "duracao": null,
+    "link": "https://www.youtube.com/playlist?list=PLQbv8gs1yYhI5iN7MJcrodysQjYurHfoa"
+  },
+  {
+    "titulo": "Natural Landscape - Jornada Sonora Pierre",
+    "ref": null,
+    "tipo": "Playlists",
+    "curso": "Iniciático",
+    "duracao": "9min",
+    "link": null
+  },
+  {
+    "titulo": "Retiro - Sabedoria Soundfulness",
+    "ref": null,
+    "tipo": "Aula",
+    "curso": "Retiro",
+    "duracao": "27min55seg",
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Didgeridoo",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Flauta NAF",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Cena Longa de Taketina #01",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "4 direções no salão",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Cacau + Taças",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Depoimento Pierre",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Depoimento Pierre 2",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Depoimento Pierre 3",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Tamazcal - Fala PIerre",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Retiro",
+    "duracao": "37\"",
+    "link": null
+  },
+  {
+    "titulo": "Temazcal - Fala Pierre 2",
+    "ref": null,
+    "tipo": "Depoimentos",
+    "curso": "Retiro",
+    "duracao": "1'26\"",
+    "link": null
+  },
+  {
+    "titulo": "Temazcal Canto",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "28\"",
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca + Taketina",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "37\"",
+    "link": null
+  },
+  {
+    "titulo": "4 Direçoes Edição",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "47\"",
+    "link": null
+  },
+  {
+    "titulo": "Cacau Editado",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'",
+    "link": null
+  },
+  {
+    "titulo": "Fogo",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "33\"",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Musical",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'43\"",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Pierre",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'38\"",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Priscila",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "48\"",
+    "link": null
+  },
+  {
+    "titulo": "Salão",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "35\"",
+    "link": null
+  },
+  {
+    "titulo": "TaKeTiNa na Geodésica",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'32\"",
+    "link": null
+  },
+  {
+    "titulo": "Temazcal - Dia",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "43\"",
+    "link": null
+  },
+  {
+    "titulo": "Temazcal - Noite",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'30\"",
+    "link": null
+  },
+  {
+    "titulo": "Temazcal - Tartaruga",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "38\"",
+    "link": null
+  },
+  {
+    "titulo": "Retiro Mestre Interior Longo Horizontal",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Highlights 3H 1",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'29\"",
+    "link": null
+  },
+  {
+    "titulo": "Highlights 3H 2",
+    "ref": null,
+    "tipo": "Video Insta",
+    "curso": "Retiro",
+    "duracao": "1'26\"",
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Abre te corazon_1",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Abrindo os trabalhos",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Caminho de estrelas",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Canto Pierre",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Chamando a força",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Musica es alimento",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Namaste",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Natureza",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Sagradita medicina",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Taketina",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Tiempo muy lejano",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Toma",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Ayahuasca - Ukupacha",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Cacau - Jornada sonora",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Falando sobre Temazcal",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Taketina",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Temazcal - Música",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Retiro",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Cacau Atemporal ",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": "30",
+    "link": null
+  },
+  {
+    "titulo": "Cacau ou Água",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": "36",
+    "link": null
+  },
+  {
+    "titulo": "Cacau",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "MAM Cacau",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "MAM Cacau",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Cacau",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": null,
+    "link": null
+  },
+  {
+    "titulo": "Anúncio Atemporal Cacau",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Cacau",
+    "duracao": "38seg",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Terra Narrado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "3'30''",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Terra Narrado",
+    "ref": null,
+    "tipo": "YouTube",
+    "curso": "Terra",
+    "duracao": "3'30''",
+    "link": null
+  },
+  {
+    "titulo": "Highlights Terra Musica",
+    "ref": null,
+    "tipo": "Vídeo Música",
+    "curso": "Terra",
+    "duracao": "1'30''",
+    "link": null
+  },
+  {
+    "titulo": "Taças 1",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Taças 1 Legendado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Taças 2",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Taças 2 Legendado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": "https://youtube.com/shorts/fym8nuDcU3Y?feature=share"
+  },
+  {
+    "titulo": "Taças 3",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Taças 3 Legendado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": "https://youtube.com/shorts/AzhYP6yOf94?feature=share"
+  },
+  {
+    "titulo": "Diapasão 1",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Diapasao 1 Legendado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": null,
+    "link": "https://youtube.com/shorts/Dh2EqonCW18?feature=share"
+  },
+  {
+    "titulo": "Diapasão 2",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  },
+  {
+    "titulo": "Diapasao 2 legendado",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": "https://youtube.com/shorts/cAptWCPR8lA?feature=share"
+  },
+  {
+    "titulo": "Diapasão 3",
+    "ref": null,
+    "tipo": "Video SFS",
+    "curso": "Terra",
+    "duracao": "1'00''",
+    "link": null
+  }
+]

@@ -47,3 +47,6 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+
+# Vídeos e artefatos gerados (fora do Git e do deploy)
+/generated-artifacts/
