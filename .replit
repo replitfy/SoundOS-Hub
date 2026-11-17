@@ -26,3 +26,9 @@ channel = "stable-25_05"
 
 [userenv.shared]
 WIX_SITE_ID = "17fbd65b-01a2-47cc-932d-5af322d3df54"
+HABLLA_WORKSPACE_ID = "6acf941287abecfba71d287d"
+HABLLA_INSTAGRAM_CONNECTION_ID = "6acf946887abecfba71d2881"
+HABLLA_WHATSAPP_CONNECTION_ID = "6af07823cb07a3bc46160f77"
+
+[userenv.production]
+PUBLIC_APP_URL = "https://soundfulness.net"

@@ -4,6 +4,9 @@
   "files": [],
   "references": [
     {
+      "path": "./lib/access-areas"
+    },
+    {
       "path": "./lib/db"
     },
     {
@@ -14,6 +17,9 @@
     },
     {
       "path": "./lib/integrations-openai-ai-server"
+    },
+    {
+      "path": "./lib/sofia-models"
     },
     {
       "path": "./scripts"

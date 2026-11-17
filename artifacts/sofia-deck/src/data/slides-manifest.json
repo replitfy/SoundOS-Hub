@@ -1,0 +1,50 @@
+[
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567801",
+    "position": 1,
+    "filepath": "src/pages/slides/Slide1Title.tsx",
+    "title": "Sofia",
+    "description": "Capa — assistente de IA da Soundfulness integrada ao SoundOS",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567802",
+    "position": 2,
+    "filepath": "src/pages/slides/Slide2Assistente.tsx",
+    "title": "Assistente",
+    "description": "Módulo de chat em tempo real com streaming e contexto de Pessoa",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567803",
+    "position": 3,
+    "filepath": "src/pages/slides/Slide3Conversas.tsx",
+    "title": "Conversas",
+    "description": "Histórico completo de interações vinculadas a contatos",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567804",
+    "position": 4,
+    "filepath": "src/pages/slides/Slide4Memoria.tsx",
+    "title": "Memória",
+    "description": "Central RAG — ingestão, indexação e busca híbrida de documentos",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567805",
+    "position": 5,
+    "filepath": "src/pages/slides/Slide5Prompt.tsx",
+    "title": "Prompt Principal",
+    "description": "Configuração de personalidade, modelo e histórico versionado",
+    "speakerNotes": ""
+  },
+  {
+    "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567806",
+    "position": 6,
+    "filepath": "src/pages/slides/Slide6SofiaPessoas.tsx",
+    "title": "Sofia + Pessoas",
+    "description": "Integração da Sofia como agente ativo no CRM de Pessoas",
+    "speakerNotes": ""
+  }
+]
